@@ -1,0 +1,41 @@
+body {
+    font-family: calibri, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+    background-color: rgb(169, 199, 216);
+    padding: 20px 10px 20px 10px;
+}
+
+h1.glowna {
+    color: purple;
+  font-size: 25px;
+}
+
+/* nieodwiedzony link */
+a:link {
+  font-weight: bold;
+  text-decoration: none;
+  color: white;
+}
+
+/* odwiedzony link */
+a:visited {
+  color: pink;
+}
+
+/* mouse over link */
+a:hover {
+  color: black;
+}
+
+/* selected link */
+a:active {
+  color: ; black;
+}
+
+table {
+    border: 0 px solid black;
+}
+
+td {
+    border: 1px solid black;
+}
